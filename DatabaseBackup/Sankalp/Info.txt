@@ -1,0 +1,3 @@
+DatabaseName = sankalpschool
+username=sankalpschool
+password=pWcm62!8pWcm62!8
